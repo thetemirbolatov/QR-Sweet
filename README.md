@@ -177,5 +177,3 @@ Copyright © 2026 MIRAJE X. thetemirbolatov.
 - Установщик для Windows
 
 ---
-
-[Скачать последнюю версию](https://github.com/thetemirbolatov/qr-sweet/releases/latest)
