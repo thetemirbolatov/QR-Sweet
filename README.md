@@ -1,6 +1,6 @@
 ## QR Sweet v1.0.0 
 
-![QR Sweet](logo.ico)
+![QR Sweet](logos.ico)
 
 ## Обзор
 
